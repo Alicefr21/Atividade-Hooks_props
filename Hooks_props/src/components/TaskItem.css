@@ -1,0 +1,33 @@
+.task-item {
+  padding: 20px;
+  border: 1px solid #ddd;
+  border-radius: 8px;
+  background-color: rgb(88, 68, 104);
+}
+
+.task-item h3 {
+  margin-bottom: 10px;
+}
+
+.task-item p {
+  margin-bottom: 15px;
+}
+
+.button-lido{
+  background-color: rgb(95, 224, 95);
+}
+
+.button-excluir{
+  background-color: rgb(241, 52, 52);
+}
+.task-item button {
+  padding: 8px 12px;
+  margin-right: 8px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.task-item button:hover {
+  opacity: 0.8;
+}

@@ -1,0 +1,24 @@
+.task-summary {
+  max-width: 900px;
+  margin: 30px auto 0;
+  padding: 20px;
+  border: 1px solid #ddd;
+  border-radius: 8px;
+  background-color: rgb(88, 68, 104);
+}
+
+.task-summary h2 {
+  margin-bottom: 15px;
+}
+
+.task-summary p {
+  margin-bottom: 8px;
+}
+
+.lido{
+    color: rgb(95, 224, 95);
+}
+
+.Naolido{
+    color: rgb(241, 52, 52);
+}

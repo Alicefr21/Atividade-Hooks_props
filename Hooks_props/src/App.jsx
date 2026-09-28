@@ -1,5 +1,5 @@
 import { useState } from 'react'
-
+import './index.css'
 import Header from './components/Header'
 import TaskList from './components/TaskList'
 import TaskSummary from './components/TaskSummary'

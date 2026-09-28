@@ -1,8 +1,9 @@
 import TaskItem from './TaskItem'
+import './TaskList.css'
 
 const TaskList = ({ tasks, marcarComoLido, excluirLivro }) => {
   return (
-    <div>
+    <div className="task-list">
       <h2>Minha Biblioteca</h2>
 
       <ul>
